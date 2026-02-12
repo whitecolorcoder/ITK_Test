@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.swp
+*.log
+
+# Virtual environments
+venv/
+.env
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled / build
+build/
+dist/
+*.egg-info/
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+docker-compose.*.yml
+
+# Alembic
+migration/__pycache__/
+alembic.ini
+
+# Tests
+.coverage
+htmlcov/
+.pytest_cache/
+
+# OS-specific
+.DS_Store
+Thumbs.db
