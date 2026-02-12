@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -37,6 +36,4 @@ alembic.ini
 htmlcov/
 .pytest_cache/
 
-# OS-specific
-.DS_Store
-Thumbs.db
+
